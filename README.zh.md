@@ -143,6 +143,13 @@ uvicorn openaiapi:app --reload
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/netease-youdao/EmotiVoice/assets/3909232/94ee0824-0304-4487-8682-664fafd09cdf" alt="qr" width="150"/>
 
+## 🤝 商务合作
+
+如有 EmotiVoice 相关的商业合作、产品集成或其他商务需求，欢迎联系我们：
+
+- **联系电话：** 010-82558901
+- **商务邮箱：** AIcloud_Business@corp.youdao.com
+
 ## 致谢
 
 - [PromptTTS](https://speechresearch.github.io/prompttts/). PromptTTS论文是本工作的重要基础。
